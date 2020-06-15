@@ -12,6 +12,7 @@ export class DishdetailComponent implements OnInit {
 	dish:Dish;
 
 	constructor() { }
+	
 
 	ngOnInit() {
 	}
